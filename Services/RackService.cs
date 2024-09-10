@@ -1,5 +1,9 @@
 
 
+/// <summary>
+/// This Provides CRUD for Racks.
+/// It has Many-One relation with library.
+/// </summary>
 public class RackService:BaseService{
 
     

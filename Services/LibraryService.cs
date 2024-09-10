@@ -1,5 +1,8 @@
 
 
+/// <summary>
+/// This Provides CRUD for Library.
+/// </summary>
 public class LibraryService:BaseService{
 
 

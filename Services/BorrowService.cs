@@ -1,4 +1,10 @@
 
+
+/// <summary>
+/// This Services provides CRUD operations
+/// and the required operations from the perspective of 
+/// client requirements.
+/// </summary>
 public class BorrowService:BaseService{
 
     public Borrow AddBorrow(Borrow borrow){

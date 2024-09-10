@@ -1,5 +1,14 @@
 
 
+/// <summary>
+/// Library Management is the singleton entry point or orchestrator
+/// to the entire library management system.
+/// all the use cases are written inside this entrypoint
+/// with specified parameters from the requirements.
+/// It will be having instances for all the services 
+/// that are part of the system and input validation and 
+/// converting input data into required objects is converted here itself.
+/// </summary>
 public class LibraryManagement{
 
     private static LibraryManagement _instance=null!;

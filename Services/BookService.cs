@@ -1,4 +1,8 @@
 
+
+/// <summary>
+/// This Provides the CRUD for Books.
+/// </summary>
 public class BookService:BaseService{
 
      public Book AddBook(Book book){

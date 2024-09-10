@@ -1,5 +1,12 @@
 
 
+/// <summary>
+/// Search Service provides searches based on.
+/// Id of book copy.
+/// Name of book.
+/// Author of book.
+/// Publisher of the bookcopy.
+/// </summary>
 public class SearchService:BaseService{
 
        /// <summary>

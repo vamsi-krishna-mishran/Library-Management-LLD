@@ -1,5 +1,9 @@
 
 
+/// <summary>
+/// It is BookCopyService providing
+/// CRUD operations of BookCopy.
+/// </summary>
 public class BookCopyService:BaseService{
 
     public BookCopy AddBook(BookCopy book){

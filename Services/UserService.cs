@@ -1,5 +1,9 @@
 
 
+/// <summary>
+/// This service provides
+/// CRUD operations for User.
+/// </summary>
 public class UserService:BaseService{
 
     public User? GetUser(int id){
