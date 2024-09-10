@@ -10,7 +10,7 @@ public class BorrowService:BaseService{
         List<Borrow> borrows=_repo.Borrows.Values.Where(borrow=>borrow.User.Id == userId).ToList();
         return borrows.Select(borrow=>borrow.BookCopy.Id).ToList();
     }
-    public Borrow GetBorrow(int copyId){
+    public Borrow? GetBorrow(int copyId){
         return _repo.Borrows.Values.Where(borrow=>borrow.BookCopy.Id == copyId).FirstOrDefault();
     }
 

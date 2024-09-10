@@ -147,9 +147,13 @@ public class LibraryManagement{
         return null;
     }
 
-    public BookCopy ReturnBook(int copyId){
-        Borrow borrow=_borrowService.GetBorrow(copyId);
+    public BookCopy? ReturnBook(int copyId){
+        Borrow? borrow=_borrowService.GetBorrow(copyId);
         DateTime now=DateTime.UtcNow;
+        if(borrow is null){
+            Console.WriteLine("THAT GIVEN COPY IS NOT LENT TO ANYONE.");
+            return null;
+        }
         TimeSpan diff=now-borrow.ReturnDate;
         int totalDueMinutes=(int)diff.TotalMinutes;
         if(totalDueMinutes>0){

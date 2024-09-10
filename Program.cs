@@ -13,7 +13,7 @@ class Program
         User user1=instance.AddUser("Vamsi Krishna");
 
         Borrow? borrow=instance.BorrowBook(copy?.Id??-1,user1.Id,-5);
-        instance.ReturnBook(copy.Id);
+        instance.ReturnBook(copy?.Id??-1);
 
     }
 }
