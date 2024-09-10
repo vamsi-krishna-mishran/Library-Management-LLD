@@ -1,0 +1,14 @@
+c:\Users\vamsi\Documents\GitHub\library-management\bin\Debug\net8.0\library-management.exe
+c:\Users\vamsi\Documents\GitHub\library-management\bin\Debug\net8.0\library-management.deps.json
+c:\Users\vamsi\Documents\GitHub\library-management\bin\Debug\net8.0\library-management.runtimeconfig.json
+c:\Users\vamsi\Documents\GitHub\library-management\bin\Debug\net8.0\library-management.dll
+c:\Users\vamsi\Documents\GitHub\library-management\bin\Debug\net8.0\library-management.pdb
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\library-management.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\library-management.AssemblyInfoInputs.cache
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\library-management.AssemblyInfo.cs
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\library-management.csproj.CoreCompileInputs.cache
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\library-management.dll
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\refint\library-management.dll
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\library-management.pdb
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\library-management.genruntimeconfig.cache
+c:\Users\vamsi\Documents\GitHub\library-management\obj\Debug\net8.0\ref\library-management.dll
