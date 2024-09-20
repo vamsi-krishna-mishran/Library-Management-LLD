@@ -4,9 +4,6 @@
 <h2>Solution</h2>
 <b>Directory Structure</b>
 <pre>
-Folder PATH listing for volume New Volume
-Volume serial number is 2852-0BC3
-E:.
 |   .gitignore
 |   library-management.csproj
 |   library-management.sln
