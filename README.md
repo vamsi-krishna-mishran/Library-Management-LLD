@@ -4,6 +4,7 @@
 <h2>Solution</h2>
 <b>Directory Structure</b>
 <pre>
+<b>root</b>
 |   .gitignore
 |   library-management.csproj
 |   library-management.sln
